@@ -1,0 +1,179 @@
+variable,variable_type,variable_name,custom_description
+TOT_HH,Estimate,Total households,Total number of households
+CIV_POP_18+,Estimate,Civilian population 18 years and over,Total number of civilians 18+
+TOT_CIV_POP,Estimate,Total Civilian Noninstitutionalized Population,Total civilian noninstitutionalized population
+TOT_POPULATION,Estimate,Total population,Total population (number)
+AVG_HH_SZ,Estimate,Average household size,Average family size (number)
+AVG_FAM_SZ,Estimate,Average family size,Average household size (number)
+P_HH_65PLUS,Percent Estimate,Households with one or more people 65 years and over,Percent of households with at least one person 65+ (percent)
+P_HH_UNDER18,Percent Estimate,Households with one or more people under 18 years,Percent of households with at least one person <18 (percent)
+P_MALES_NEVER_MARRIED,Percent Estimate,Males 15 years and over,Percent of males 15+ that have never married (percent)
+P_FEMALES_NEVER_MARRIED,Percent Estimate,Females 15 years and over,Percent of females 15+ that have never married (percent)
+P_MALES_WIDOWED,Percent Estimate,Males 15 years and over,Percent of males 15+ that are widowed (percent)
+P_FEMALES_WIDOWED,Percent Estimate,Females 15 years and over,Percent of females 15+ that are widowed (percent)
+P_SCHOOL_COLLEGE,Percent Estimate,Population 3 years and over enrolled in school,Percent school-attendees in college/grad school (percent)
+P_SCHOOL_HS,Percent Estimate,Population 3 years and over enrolled in school,Percent school-attendees in highschool (percent)
+P_SCHOOL_NURSERY,Percent Estimate,Population 3 years and over enrolled in school,Percent school-attendees in nursery school/preschool (percent)
+P_LT_9GRADE,Percent Estimate,Population 25 years and over,Percent of population older than 25 who has less than a 9th grade education (percent)
+P_GRAD_DEGREE,Percent Estimate,Population 25 years and over,Percent of population older than 25 who has a grad degree (percent)
+P_HS_GRAD_PLUS,Percent Estimate,Percent high school graduate or higher,Percent of population older than 25 who has a highschool diploma or higher (percent)
+P_BACHELORS_PLUS,Percent Estimate,Percent bachelor's degree or higher,Percent of population older than 25 who has a bachelors degree or higher (percent)
+P_VETERANS,Percent Estimate,Civilian population 18 years and over,Percent that are civilian vetrans of the civilian population over 18 years old (percent)
+P_DISABLED,Percent Estimate,Total Civilian Noninstitutionalized Population,Percent of population that is disabled (percent)
+P_SAME_HOUSE_1YR,Percent Estimate,Population 1 year and over,Percent of population that was in the same house a year ago (percent)
+P_DIFF_HOUSE_SAME_CNTY,Percent Estimate,Population 1 year and over,Percent of population that was in a different house in the same county a year ago (percent)
+P_DIFF_HOUSE_US,Percent Estimate,Population 1 year and over,Percent of population that was in a different house in the U.S. a year ago (percent)
+P_DIFF_HOUSE_SAME_STATE,Percent Estimate,Population 1 year and over,Percent of population that was in a different house in the same state a year ago (percent)
+P_DIFF_HOUSE_DIFF_STATE,Percent Estimate,Population 1 year and over,Percent of population that was in a different house in a different state a year ago (percent)
+P_DIFF_HOUSE_ABROAD,Percent Estimate,Population 1 year and over,Percent of population that was in a different house abroad a year ago (percent)
+P_BORN_US,Percent Estimate,Total population,Percent of population that was born in the U.S. (percent)
+P_BORN_SAME_STATE,Percent Estimate,Total population,Percent of population that was born in the same state (percent)
+P_BORN_DIFF_STATE,Percent Estimate,Total population,Percent of population that was born in a different state (percent)
+P_FOREIGN_BORN,Percent Estimate,Total population,Percent of population that is foreign born (percent)
+P_FOREIGN_NOT_CITIZEN,Percent Estimate,Foreign-born population,Percent of foreign born population that is not a citizen (percent)
+CIV_POP_16,Estimate,Population 16 years and over,Number of people in the civilian labor force
+P_LABOR_FORCE,Percent Estimate,Population 16 years and over,Percent of population 16+ in the labor force (percent)
+P_EMPLOYED,Percent Estimate,Population 16 years and over,Percent of civilian labor force employed (percent)
+P_UNEMPLOYED,Percent Estimate,Population 16 years and over,Percent of civilian labor force unemployed (percent)
+P_ARMED_SERVICES,Percent Estimate,Population 16 years and over,Percent of labor force in the armed services (percent)
+P_NOT_IN_LABOR_FORCE,Percent Estimate,Population 16 years and over,Percent of population 16+ not in the labor force (percent)
+P_UNEMPLOYMENT_RATE,Percent Estimate,Civilian labor force,Unemployment rate of civilian labor force (percent)
+P_ALL_PARENTS_WORK_UNDER6,Percent Estimate,Own children of the householder under 6 years,"All parents of household in labor force, own children under 6 (percent)"
+P_COMMUTE_ALONE,Percent Estimate,Workers 16 years and over,Percent of workforce 16+ commuting by driving alone (percent)
+P_COMMUTE_CARPOOL,Percent Estimate,Workers 16 years and over,Percent of workforce 16+ commuting by carpool (percent)
+P_COMMUTE_PUBLIC,Percent Estimate,Workers 16 years and over,Percent of workforce 16+ commuting by public transportation (percent)
+P_WORK_FROM_HOME,Percent Estimate,Workers 16 years and over,Percent of workforce 16+ working from home (percent)
+AVG_COMMUTE_TIME,Estimate,Workers 16 years and over,Mean travel time to work (minutes)
+P_WORK_MANAGEMENT,Percent Estimate,Civilian employed population 16 years and over,"Segment of the working population 16+ in management, business, science, and arts (percent)"
+P_WORK_SERVICE,Percent Estimate,Civilian employed population 16 years and over,Segment of the working population 16+ in service (percent)
+P_WORK_SALES,Percent Estimate,Civilian employed population 16 years and over,Segment of the working population 16+ in sales/office (percent)
+P_WORK_CONSTRUCTION,Percent Estimate,Civilian employed population 16 years and over,Segment of the working population 16+ in natural resources/construction/maintenance (percent)
+P_WORK_PRODUCTION,Percent Estimate,Civilian employed population 16 years and over,"Segment of the working population 16+ in production, transportation, and materials (percent)"
+P_WORK_AGRICULTURE,Percent Estimate,Civilian employed population 16 years and over,"Segment of the working population 16+ working in agriculture, forestry, fishing, hunting, and mining industry (percent)"
+P_WORK_CONSTRUCTION_INDUSTRY,Percent Estimate,Civilian employed population 16 years and over,Segment of the working population 16+ working in construction industry (percent)
+P_WORK_MANUFACTURING,Percent Estimate,Civilian employed population 16 years and over,Segment of the working population 16+ working in manufacturing industry (percent)
+P_WORK_WHOLESALE,Percent Estimate,Civilian employed population 16 years and over,Segment of the working population 16+ working in wholesale trade industry (percent)
+P_WORK_RETAIL,Percent Estimate,Civilian employed population 16 years and over,Segment of the working population 16+ working in retail trade industry (percent)
+P_WORK_TRANSPORTATION,Percent Estimate,Civilian employed population 16 years and over,"Segment of the working population 16+ working in transportation, warehousing, utilities industry (percent)"
+P_WORK_INFORMATION,Percent Estimate,Civilian employed population 16 years and over,Segment of the working population 16+ working in information industry (percent)
+P_WORK_FINANCE,Percent Estimate,Civilian employed population 16 years and over,"Segment of the working population 16+ working in finance, insurance, real estate, renting, leasing (FIRE) industry (percent)"
+P_WORK_PROFESSIONAL,Percent Estimate,Civilian employed population 16 years and over,"Segment of the working population 16+ working in professional, scientifice, management, administrative industry (percent)"
+P_WORK_EDUCATION,Percent Estimate,Civilian employed population 16 years and over,"Segment of the working population 16+ working in educational services, health care, social assistance industry (percent)"
+P_WORK_ENTERTAINMENT,Percent Estimate,Civilian employed population 16 years and over,"Segment of the working population 16+ working in entertainment, arts, recreation, accomodation, and food services industry (percent)"
+P_WORK_PUBLIC_ADMIN,Percent Estimate,Civilian employed population 16 years and over,Segment of the working population 16+ working in public administration industry (percent)
+P_WORK_PRIVATE,Percent Estimate,Civilian employed population 16 years and over,Segment of the working population 16+ working in the private wage and salary workers class (percent)
+P_WORK_GOVERNMENT,Percent Estimate,Civilian employed population 16 years and over,Segment of the working population 16+ working in the government workers class (percent)
+P_WORK_SELF_EMPLOYED,Percent Estimate,Civilian employed population 16 years and over,Segment of the working population 16+ working in the self-employed in own not incorporated business class (percent)
+P_WORK_UNPAID_FAMILY,Percent Estimate,Civilian employed population 16 years and over,Segment of the working population 16+ working in the unpaid family workers class (percent)
+P_HH_INCOME_LT_10K,Percent Estimate,Total households,"Percent of households with income less than $10,000 (percent)"
+P_HH_INCOME_10K_15K,Percent Estimate,Total households,"Percent of households with income $10,000 - $14,999 (percent)"
+P_HH_INCOME_15K_25K,Percent Estimate,Total households,"Percent of households with income $15,000 - $24,999 (percent)"
+P_HH_INCOME_25K_35K,Percent Estimate,Total households,"Percent of households with income $25,000 - $34,999 (percent)"
+P_HH_INCOME_35K_50K,Percent Estimate,Total households,"Percent of households with income $35,000 - $49,999 (percent)"
+P_HH_INCOME_50K_75K,Percent Estimate,Total households,"Percent of households with income $50,000 - $74,999 (percent)"
+P_HH_INCOME_75K_100K,Percent Estimate,Total households,"Percent of households with income $75,000 - $99,999 (percent)"
+P_HH_INCOME_100K_150K,Percent Estimate,Total households,"Percent of households with income $100,000 - $149,999 (percent)"
+P_HH_INCOME_150K_200K,Percent Estimate,Total households,"Percent of households with income $150,000 - $199,999 (percent)"
+P_HH_INCOME_200K_PLUS,Percent Estimate,Total households,"Percent of households with income $200,000+ (percent)"
+MED_HH_INCOME,Estimate,Total households,Median household income (dollars)
+MEAN_HH_INCOME,Estimate,Total households,Mean household income (dollars)
+MEAN_SOC_SEC,Estimate,Total households,Mean social security income (of people on it) (dollars)
+MEAN_RETIREMENT_INC,Estimate,Total households,Mean retirement income (of people on it) (dollars)
+MEAN_SUPP_SEC,Estimate,Total households,Mean supplemental security income (of people on it) (dollars)
+MEAN_PUB_ASSISTANCE,Estimate,Total households,Mean cash public assistance income (of people on it) (dollars)
+MED_FAMILY_INC,Estimate,Families,Median family income (dollars)
+MEAN_FAMILY_INC,Estimate,Families,Mean family income (dollars)
+PER_CAPITA_INC,Estimate,Per capita income (dollars),Per capita income (dollars)
+MEAN_NONFAMILY_INC,Estimate,Nonfamily households,Mean nonfamily income (dollars)
+MED_NONFAMILY_INC,Estimate,Nonfamily households,Median nonfamily income (dollars)
+MED_EARNINGS_WORKERS,Estimate,Median earnings for workers (dollars),Median earnings for workers (dollars)
+MED_EARNINGS_MALE,Estimate,"Median earnings for male full-time, year-round workers (dollars)",Median earnings males (dollars)
+MED_EARNINGS_FEMALE,Estimate,"Median earnings for female full-time, year-round workers (dollars)",Median earnings females (dollars)
+P_SOC_SEC_HH,Percent Estimate,Total households,Percent of total households with social security income (percent)
+P_RETIREMENT_HH,Percent Estimate,Total households,Percent of total households with retirement income (percent)
+P_SUPP_SEC_HH,Percent Estimate,Total households,Percent of total households with supplemental security income (percent)
+P_PUB_ASSISTANCE_HH,Percent Estimate,Total households,Percent of total households with cash public assistance income (percent)
+P_FOOD_STAMPS,Percent Estimate,Total households,Percent of total households with food/snap benefits in the last 12 months (percent)
+P_HEALTH_INS_CIV_POP,Percent Estimate,Civilian noninstitutionalized population,Percent of civilian noninstitutionalized population with health insurance (percent)
+P_PRIV_HEALTH_INS,Percent Estimate,Civilian noninstitutionalized population,Percent of civilian noninstitutionalized population with health insurance with private health insurance (percent)
+P_PUB_HEALTH_INS,Percent Estimate,Civilian noninstitutionalized population,Percent of civilian noninstitutionalized population with health insurance with public health insurance (percent)
+P_NO_HEALTH_INS,Percent Estimate,Civilian noninstitutionalized population,Percent of civilian noninstitutionalized population with no health insurance (percent)
+P_NO_HEALTH_INS_EMP,Percent Estimate,Civilian noninstitutionalized population,Percent of employed civilian noninstitutionalized population with no health insurance (percent)
+P_NO_HEALTH_INS_UNEMP,Percent Estimate,Civilian noninstitutionalized population,Percent of unemployed civilian noninstitutionalized population with no health insurance (percent)
+P_NO_HEALTH_INS_NOT_LF,Percent Estimate,Civilian noninstitutionalized population,Percent of civilian noninstitutionalized population not in the labor force with no health insurance (percent)
+P_FAM_INCOME_BELOW_POVERTY,Percent Estimate,All families,Percent of all families whose income in the past 12 months is below the poverty line(percent)
+P_FAM_KIDS_INCOME_BELOW_POVERTY,Percent Estimate,All families,Percent of all families with kids whose income in the past 12 months is below the poverty line(percent)
+P_FEMALE_HEAD_INCOME_BELOW_POVERTY,Percent Estimate,"Families with female householder, no husband present",Percent of all families with a female head whose income in the past 12 months is below the poverty line(percent)
+P_ALL_INCOME_BELOW_POVERTY,Percent Estimate,All people,Percent of all people whose income in the past 12 months is below the poverty line(percent)
+P_CHILDREN_BELOW_POVERTY,Percent Estimate,All people,Percent of all people less than 18 whose income in the past 12 months is below the poverty line(percent)
+P_PEOPLE_IN_FAMILIES_BELOW_POVERTY,Percent Estimate,People in families,Percent of all people in families whose income in the past 12 months is below the poverty line(percent)
+P_65PLUS_BELOW_POVERTY,Percent Estimate,All people,Percent of all people 65+ whose income in the past 12 months is below the poverty line(percent)
+TOT_HOUSING_UNITS,Estimate,Total housing units,Total housing units
+P_OCCUPIED_UNITS,Percent Estimate,Total housing units,Occupied housing units (out of all housing units) (percent)
+P_VACANT_UNITS,Percent Estimate,Total housing units,Vacant housing units (out of all housing units) (percent)
+HOMEOWNER_VACANCY_RATE,Estimate,Homeowner vacancy rate,Homeowner vacancy rate
+RENTAL_VACANCY_RATE,Estimate,Rental vacancy rate,Rental vacancy rate
+P_1_UNIT_DETACHED,Percent Estimate,Total housing units,"Percent of 1-unit, detached out of total housing units (percent)"
+P_1_UNIT_ATTACHED,Percent Estimate,Total housing units,"Percent of 1-unit, attached out of total housing units (percent)"
+P_2_UNITS,Percent Estimate,Total housing units,Percent of 2 unit out of total housing units (percent)
+P_3_4_UNITS,Percent Estimate,Total housing units,Percent of 3-4 units out of total housing units (percent)
+P_5_9_UNITS,Percent Estimate,Total housing units,Percent of 5-9 units out of total housing units (percent)
+P_10_19_UNITS,Percent Estimate,Total housing units,Percent of 10-19 units out of total housing units (percent)
+P_20PLUS_UNITS,Percent Estimate,Total housing units,Percent of 20+ units out of total housing units (percent)
+P_MOBILE_HOMES,Percent Estimate,Total housing units,Percent of mobile homes out of total housing units (percent)
+P_1_ROOM,Percent Estimate,Total housing units,Percent of total housing units with 1 room (percent)
+P_2_ROOMS,Percent Estimate,Total housing units,Percent of total housing units with 2 rooms (percent)
+P_3_ROOMS,Percent Estimate,Total housing units,Percent of total housing units with 3 rooms (percent)
+P_4_ROOMS,Percent Estimate,Total housing units,Percent of total housing units with 4 rooms (percent)
+P_5_ROOMS,Percent Estimate,Total housing units,Percent of total housing units with 5 rooms (percent)
+P_6_ROOMS,Percent Estimate,Total housing units,Percent of total housing units with 6 rooms (percent)
+P_7_ROOMS,Percent Estimate,Total housing units,Percent of total housing units with 7 rooms (percent)
+P_8_ROOMS,Percent Estimate,Total housing units,Percent of total housing units with 8 rooms (percent)
+P_9PLUS_ROOMS,Percent Estimate,Total housing units,Percent of total housing units with 9 rooms (percent)
+P_NO_BEDROOM,Percent Estimate,Total housing units,"Of total housing units, no bedroom (percent)"
+P_1_BEDROOM,Percent Estimate,Total housing units,"Of total housing units, one bedroom (percent)"
+P_2_BEDROOMS,Percent Estimate,Total housing units,"Of total housing units, two bedrooms (percent)"
+P_3_BEDROOMS,Percent Estimate,Total housing units,"Of total housing units, three bedrooms (percent)"
+P_4_BEDROOMS,Percent Estimate,Total housing units,"Of total housing units, four bedrooms (percent)"
+P_5PLUS_BEDROOMS,Percent Estimate,Total housing units,"Of total housing units, five or more bedrooms (percent)"
+P_OWNER_OCCUPIED,Percent Estimate,Occupied housing units,Owner occupied housing units (of occupied housing units) (percent)
+P_RENTER_OCCUPIED,Percent Estimate,Occupied housing units,Renter occupied housing units (of occupied housing units) (percent)
+AVG_OWNER_HH_SZ,Estimate,Occupied housing units,Average household size of owner-occupied unit (number)
+AVG_RENTER_HH_SZ,Estimate,Average household size of owner-occupied unit,Average household size of renter-occupied unit (number)
+P_NO_VEHICLES,Percent Estimate,Occupied housing units,"Of occupied housing units, percent with no vehicles available (percent)"
+P_1_VEHICLE,Percent Estimate,Occupied housing units,"Of occupied housing units, percent with 1 vehicle available (percent)"
+P_2_VEHICLES,Percent Estimate,Occupied housing units,"Of occupied housing units, percent with 2 vehicles available (percent)"
+P_3PLUS_VEHICLES,Percent Estimate,Occupied housing units,"Of occupied housing units, percent with 3+ vehicles available (percent)"
+P_LACKING_PLUMBING,Percent Estimate,Occupied housing units,"Of occupied housing units, percent lacking complete plumbing facilities (percent)"
+P_LACKING_KITCHEN,Percent Estimate,Occupied housing units,"Of occupied housing units, percent lacking complete kitchen facilities (percent)"
+P_LACKING_TELEPHONE,Percent Estimate,Occupied housing units,"Of occupied housing units, percent lacking telephone service (percent)"
+P_LESS_OCCUPANTS_1,Percent Estimate,Occupied housing units,"Of occupied housing units, percent with 1.00 or less occupants per room (percent)"
+P_OCCUPANTS_1_1_5,Percent Estimate,Occupied housing units,"Of occupied housing units, percent with 1.00-1.50 occupants per room (percent)"
+P_OCCUPANTS_1_5PLUS,Percent Estimate,Occupied housing units,"Of occupied housing units, percent with 1.51+ occupants per room (percent)"
+P_HH_VALUE_LT_50K,Percent Estimate,Owner-occupied units,"Of owner-occupied housing units, percent with value of less than $50,000 (percent)"
+P_HH_VALUE_50K_100K,Percent Estimate,Owner-occupied units,"Of owner-occupied housing units, percent with value of $50,000-$99,999 (percent)"
+P_HH_VALUE_100K_150K,Percent Estimate,Owner-occupied units,"Of owner-occupied housing units, percent with value of $100,000-$149,999 (percent)"
+P_HH_VALUE_150K_200K,Percent Estimate,Owner-occupied units,"Of owner-occupied housing units, percent with value of $150,000-$199,999 (percent)"
+P_HH_VALUE_200K_300K,Percent Estimate,Owner-occupied units,"Of owner-occupied housing units, percent with value of $200,000-$299,999 (percent)"
+P_HH_VALUE_300K_500K,Percent Estimate,Owner-occupied units,"Of owner-occupied housing units, percent with value of $300,000-$499,999 (percent)"
+P_HH_VALUE_500K_1MIL,Percent Estimate,Owner-occupied units,"Of owner-occupied housing units, percent with value of $500,000-$999,999 (percent)"
+P_HH_VALUE_1MIL_PLUS,Percent Estimate,Owner-occupied units,"Of owner-occupied housing units, percent with value of $1,000,000 or more (percent)"
+MED_HOUSE_VALUE,Estimate,Owner-occupied units,"Of owner-occupied housing units, median value of house (dollars)"
+P_HH_WITH_MORTGAGE,Percent Estimate,Owner-occupied units,"Of owner-occupied housing units, percent of housing units with a mortagage"
+MED_SMOC_MORTGAGE,Estimate,Housing units with a mortgage,"Of owner-occupied housing units with a mortage, median selected monthly owner costs (SMOC)"
+MED_SMOC_NO_MORTGAGE,Estimate,Housing units without a mortgage,"Of owner-occupied housing units without a mortage, median selected monthly owner costs (SMOC)"
+P_SMOCAPI_20_25,Percent Estimate,Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),"Of housing units with a mortage, selected montly owner costs as 20.0-24.9 percent of total household income (SMOCAPI) (percent)"
+P_SMOCAPI_25_30,Percent Estimate,Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),"Of housing units with a mortage, selected montly owner costs as 25.0-29.9 percent of total household income (SMOCAPI) (percent)"
+P_SMOCAPI_30_35,Percent Estimate,Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),"Of housing units with a mortage, selected montly owner costs as 30.0-34.9 percent of total household income (SMOCAPI) (percent)"
+P_SMOCAPI_35PLUS,Percent Estimate,Housing units with a mortgage (excluding units where SMOCAPI cannot be computed),"Of housing units with a mortage, selected montly owner costs as 35.0 or more percent of total household income (SMOCAPI) (percent)"
+P_SMOC_NO_MORTGAGE_10_15,Percent Estimate,Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),"Of housing units without a mortage, selected montly owner costs as 10.0 - 14.9 percent of total household income (SMOCAPI) (percent)"
+P_SMOC_NO_MORTGAGE_15_20,Percent Estimate,Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),"Of housing units without a mortage, selected montly owner costs as 15.0 - 19.9 percent of total household income (SMOCAPI) (percent)"
+P_SMOC_NO_MORTGAGE_20_25,Percent Estimate,Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),"Of housing units without a mortage, selected montly owner costs as 20.0 - 24.9 percent of total household income (SMOCAPI) (percent)"
+P_SMOC_NO_MORTGAGE_25_30,Percent Estimate,Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),"Of housing units without a mortage, selected montly owner costs as 25.0 - 29.9 percent of total household income (SMOCAPI) (percent)"
+P_SMOC_NO_MORTGAGE_30_35,Percent Estimate,Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),"Of housing units without a mortage, selected montly owner costs as 30.0 - 34.9 percent of total household income (SMOCAPI) (percent)"
+P_SMOC_NO_MORTGAGE_35PLUS,Percent Estimate,Housing unit without a mortgage (excluding units where SMOCAPI cannot be computed),"Of housing units without a mortage, selected montly owner costs as 35.0 or more percent of total household income (SMOCAPI) (percent)"
+P_GRAPI_15_20,Percent Estimate,Occupied units paying rent (excluding units where GRAPI cannot be computed),"Of occupied housing units paying rent, gross rent as 15.0 - 19.9 percent of household income (GRAPI) (percent)"
+P_GRAPI_20_25,Percent Estimate,Occupied units paying rent (excluding units where GRAPI cannot be computed),"Of occupied housing units paying rent, gross rent as 20.0 - 24.9 percent of household income (GRAPI) (percent)"
+P_GRAPI_25_30,Percent Estimate,Occupied units paying rent (excluding units where GRAPI cannot be computed),"Of occupied housing units paying rent, gross rent as 25.0 - 29.9 percent of household income (GRAPI) (percent)"
+P_GRAPI_30_35,Percent Estimate,Occupied units paying rent (excluding units where GRAPI cannot be computed),"Of occupied housing units paying rent, gross rent as 30.0 - 34.9 percent of household income (GRAPI) (percent)"
+P_GRAPI_35PLUS,Percent Estimate,Occupied units paying rent (excluding units where GRAPI cannot be computed),"Of occupied housing units paying rent, gross rent as 35.0 or more percent of household income (GRAPI) (percent)"

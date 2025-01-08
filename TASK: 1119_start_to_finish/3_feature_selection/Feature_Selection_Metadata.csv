@@ -1,0 +1,8 @@
+File,Description
+SFS_Features.csv,This file contains features selected using the SFS feature selection method.
+RFE_Features.csv,This file contains features selected using the RFE feature selection method.
+Correlation_Features.csv,This file contains features selected using the Correlation feature selection method.
+Subset_1.csv,This file contains the intersection of features selected by SFS and RFE methods.
+Subset_2.csv,This file contains the intersection of features selected by SFS and Correlation methods.
+Subset_3.csv,This file contains the intersection of features selected by RFE and Correlation methods.
+Union of Intersections.csv,"This file contains the union of all three intersections: (SFS ∩ RFE), (SFS ∩ Correlation), and (RFE ∩ Correlation)."
